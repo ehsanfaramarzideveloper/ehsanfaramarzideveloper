@@ -39,5 +39,9 @@
 ## 🔗 Connect with me
 
 - 🌐 Website: https://www.ehsanfaramarzi.com
-- 💼 LinkedIn: (add soon)
-- 📺 YouTube: https://B2n.ir/youtube-me
+- 💼 LinkedIn: https://B2n.ir/linkdin-me
+<img width="307" height="21" alt="image" src="https://github.com/user-attachments/assets/f79d1e0a-7ec8-493c-aaf3-8195fba02a3d" />
+
+- 📺 YouTube: [https://B2n.ir/youtube-me](https://B2n.ir/youtube-me
+)<img width="285" height="21" alt="image" src="https://github.com/user-attachments/assets/3e4e8589-813a-4fef-b8b5-654d2903976d" />
+
